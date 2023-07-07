@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 ,Star Channel
+http://e10.telerium.link:2052/free10/030/chunks.m3u8?nimblesessionid=32856896&wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjMgOToxMjowMSBQTSZoYXNoX3ZhbHVlPW1QOEJjZlU2RFd6MytrZXFucHVpbHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 ,CineCanal
+http://e10.telerium.link:2052/free10/052/chunks.m3u8?nimblesessionid=32858428&wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjMgOToyMDowNiBQTSZoYXNoX3ZhbHVlPTRWTHFwYmxrenFrRkVOWFFnNmc3RHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 ,CineMax
+http://e10.telerium.link:2052/free10/053/chunks.m3u8?nimblesessionid=32858875&wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjMgOToyMjo0MiBQTSZoYXNoX3ZhbHVlPTJURWRLaUQ3N1BSaTQwUDVNMkNOUkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 ,GOLDEN
+http://e10.telerium.link:2052/free10/064/chunks.m3u8?nimblesessionid=32860489&wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjMgOToyNjo1MyBQTSZoYXNoX3ZhbHVlPVB6WXNPYVpkZ2pkbUJLWjVOTkRjY3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 ,Golden Edge
+http://e10.telerium.link:2052/free10/065/chunks.m3u8?nimblesessionid=32861352&wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjMgOTozMTo0OCBQTSZoYXNoX3ZhbHVlPWk1dFJ6WTdHQTVhc1V0MmhBRU1RZ2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1 ,HBO XTREME
+http://e10.telerium.link:2052/free10/071/chunks.m3u8?nimblesessionid=32861768&wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjMgOTozNDoxMSBQTSZoYXNoX3ZhbHVlPVdIbGZSWVhGdm1lY2xqYXRqck1tZHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
